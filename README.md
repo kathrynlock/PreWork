@@ -14,11 +14,11 @@ Run this command to execute the application:
 'python boba_bot.py'
 
 
-# Authors 
+## Authors 
 
 -[@kateeeel](https://github.com/kathrynlock)
 
-# Key Features
+## Key Features
 
 - Suggestion feature to suggest drinks based on the customer's answer to a question
 - Ordering feature which allows the user to customize several components of a drink and order multiple drinks
